@@ -1,0 +1,19 @@
+
+/* line 18 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+
+/* line 1 : /Applications/CodeKit.app/Contents/Resources/engines/stylus/lib/functions/index.styl */
+
+/* line 1 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+body{font-family:'Open Sans';}
+/* line 3 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+body table{width:90%;text-align:center;box-shadow:0 0 5px rgba(0,0,0,0.5);margin:auto;}
+/* line 8 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+body table td{padding:.5em .25em}
+/* line 10 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+body table th{background-color:#fbae26}
+/* line 12 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+body table tr:nth-of-type(odd){background-color:#e8e8e8}
+/* line 14 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+body table tr:nth-of-type(even){background-color:#bae8ff}
+/* line 16 : /Users/mhcristian/Dropbox/Universidad/Intro/Pregunta 1/style.styl */
+body h2{text-align:center;font-size:2em}
